@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Hola bienvenido a TuVidaFinancieraApp, Una App para ahorrar!!</ThemedText>
+        <ThemedText type="title">Hola bienvenido a TuVidaFinancieraApp,    Una App para ahorrar!!</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
