@@ -43,6 +43,8 @@ https://dtm2024.atlassian.net/jira/software/projects/KAN/boards/1
 Proyecto de github
 https://github.com/TuVidaFinanciera-Organizacion/TuVidaFinancieraApp.git
 
+![Logo](images/pantallas.png)
+
 ## INSTALACIÓN
 
 REACT NATIVE<br/>
