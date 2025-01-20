@@ -16,8 +16,8 @@ Tu Vida Financiera
 
 Integrantes:
 
-●	Diomaris Durán ( ddg00011@red.ujaen.es )
-●	Dainy Ramirez Ramirez ( drr00044@red.ujaen.es )
+●	Diomaris Durán ( ddg00011@red.ujaen.es )<br/>
+●	Dainy Ramirez Ramirez ( drr00044@red.ujaen.es )<br/>
 ●	Paúl Paillacho ( ppp00031@red.ujaen.es )
 
 
@@ -59,6 +59,7 @@ Instalar React Native CLI
 
 npm install -g react-native-cli
 npm install -g expo-cli
+<br/>
 Instalar Expo Go 
 Para realizar las pruebas del desarrollo sin instalar emulador en equipo se debe instalar Expo Go en el teléfono.
 Aquí se escaneará el código QR que se genere al momento de ejecutar el aplicativo
