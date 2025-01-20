@@ -25,14 +25,14 @@ Integrantes:
 </div>
 
 ## CARACTERÍSTICAS
-Tu Vida Financiera es una aplicación diseñada para ayudarte a gestionar y optimizar tus finanzas personales de manera efectiva y conveniente. Nuestro objetivo es empoderarte con herramientas y conocimientos que te permitan tomar decisiones financieras informadas y alcanzar tus metas económicas.
+Tu Vida Financiera es una aplicación diseñada para ayudarte a gestionar y optimizar tus finanzas personales de manera efectiva y conveniente. Nuestro objetivo es empoderarte con herramientas y conocimientos que te permitan tomar decisiones financieras informadas y alcanzar tus metas económicas. <br/>
 
-Con Tu Vida Financiera, se podrá realizar lo siguiente:
-•	Monitorear tus Gastos: Lleva un control detallado de tus ingresos y egresos en diversas categorías, permitiéndote identificar patrones de gasto y áreas de oportunidad para ahorrar.
-•	Establecer Presupuestos: Define presupuestos mensuales o semanales para diferentes categorías y realiza un seguimiento de tu progreso para asegurarte de que te mantienes dentro de los límites establecidos.
-•	Planificar tus Metas Financieras: Fija objetivos de ahorro a corto y largo plazo y recibe orientación y sugerencias para alcanzarlos de manera efectiva.
-•	Recibir Reportes y Análisis: Obtén reportes visuales y análisis detallados de tus finanzas, lo que te permitirá comprender mejor tu situación económica y hacer ajustes necesarios.
-•	Gestionar Transacciones: Registra y categoriza tus transacciones diarias de manera fácil y rápida, manteniendo un registro ordenado y accesible de tu historial financiero.
+Con Tu Vida Financiera, se podrá realizar lo siguiente: <br/>
+•	Monitorear tus Gastos: Lleva un control detallado de tus ingresos y egresos en diversas categorías, permitiéndote identificar patrones de gasto y áreas de oportunidad para ahorrar. <br/>
+•	Establecer Presupuestos: Define presupuestos mensuales o semanales para diferentes categorías y realiza un seguimiento de tu progreso para asegurarte de que te mantienes dentro de los límites establecidos. <br/>
+•	Planificar tus Metas Financieras: Fija objetivos de ahorro a corto y largo plazo y recibe orientación y sugerencias para alcanzarlos de manera efectiva. <br/>
+•	Recibir Reportes y Análisis: Obtén reportes visuales y análisis detallados de tus finanzas, lo que te permitirá comprender mejor tu situación económica y hacer ajustes necesarios. <br/>
+•	Gestionar Transacciones: Registra y categoriza tus transacciones diarias de manera fácil y rápida, manteniendo un registro ordenado y accesible de tu historial financiero. <br/>
 
 
 
@@ -72,7 +72,7 @@ sh<br/>
 git config --global user.name "Tu Nombre"<br/>
 2.	Establecer tu correo electrónico:<br/>
 sh<br/>
-git config --global user.email tu.correo@example.com<br/>
+git config --global user.email tu.correo@example.com <br/>
 
  
 
