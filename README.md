@@ -112,8 +112,7 @@ a.	npx expo start --tunnel<br/>
 5)	Abrir el aplicativo EXPO GO y escanear el código QR<br/>
 6)	También se puede ingresar al link del servidor
  <br/>
-   ![Logo](images/image9.png)
-<br/>
+
 
 
 
