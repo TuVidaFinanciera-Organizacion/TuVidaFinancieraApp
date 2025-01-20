@@ -35,4 +35,13 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+
+# visualstudio 
+.vs/
+
 app-example
+*.vsidx
+/.vs/slnx.sqlite
+/.vs/TuVidaFinancieraApp/CopilotIndices/17.12.38.29086/CodeChunks.db-wal
+/.vs/TuVidaFinancieraApp/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal
+>>>>>>> origin/master
