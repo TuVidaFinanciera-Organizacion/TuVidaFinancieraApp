@@ -81,22 +81,27 @@ git config --global user.email tu.correo@example.com <br/>
 Descarga de Código
 
 
- 
+![Logo](images/image2.png)
 
 Ingresar la siguiente ruta<br/>
 https://github.com/TuVidaFinanciera-Organizacion/TuVidaFinancieraApp.git
 <br/>
-
+![Logo](images/image3.png)
 Pasos para cargar las modificaciones a GIT REMOTO<br/>
 Primero descargar los cambios remotos<br/>
+ ![Logo](images/image5.png)
  <br/>
+
 Luego hacer commit y push
- 
+  ![Logo](images/image6.png)
 <br/>
 Se abrirá una perspectiva en la parte derecha el ide, en el cual colocamos un comentario <br/>
  
 Luego pulsamos confirmar, enviar y sincronizar<br/>
- 
+   ![Logo](images/image7.png)
+<br/>
+  ![Logo](images/image8.png)
+<br/>
 Ejecutar proyecto EXPO  TuVidaFinancieraApp<br/>
 1)	Ingresamos a la carpeta donde descargamos el código<br/>
 2)	abrimos una ventana cmd<br/>
@@ -107,6 +112,8 @@ a.	npx expo start --tunnel<br/>
 5)	Abrir el aplicativo EXPO GO y escanear el código QR<br/>
 6)	También se puede ingresar al link del servidor
  <br/>
+   ![Logo](images/image9.png)
+<br/>
 
 
 
