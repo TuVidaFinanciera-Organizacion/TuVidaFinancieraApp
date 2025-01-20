@@ -45,35 +45,34 @@ https://github.com/TuVidaFinanciera-Organizacion/TuVidaFinancieraApp.git
 
 ## INSTALACIÓN
 
-REACT NATIVE
-Instalar Node.js
+REACT NATIVE<br/>
+Instalar Node.js<br/>
 1.	Descarga e instala Node.js desde su sitio web oficial.
 2.	Verifica la instalación ejecutando node -v en la terminal.
 
-Instalar Java Development Kit (JDK)
+Instalar Java Development Kit (JDK)<br/>
 1.	Descarga e instala JDK (Java Development Kit) desde el sitio web oficial de Oracle o OpenJDK.
 2.	Verifica la instalación ejecutando java -version en la terminal.
-
-Instalar React Native CLI
+<br/>
+Instalar React Native CLI<br/>
 1.	Abre la terminal y ejecuta el siguiente comando para instalar React Native CLI:
-
-npm install -g react-native-cli
+<br/>
+npm install -g react-native-cli<br/>
 npm install -g expo-cli
 <br/>
-Instalar Expo Go 
-Para realizar las pruebas del desarrollo sin instalar emulador en equipo se debe instalar Expo Go en el teléfono.
-Aquí se escaneará el código QR que se genere al momento de ejecutar el aplicativo
-GIT
-Instalar GIT
-https://git-scm.com/
-Configurar el Nombre de Usuario y el Correo Electrónico
-Git utiliza tu nombre de usuario y correo electrónico para registrar quién realizó cada cambio en tu repositorio. Abre una terminal y ejecuta los siguientes comandos:
-1.	Establecer tu nombre de usuario:
-sh
-git config --global user.name "Tu Nombre"
-2.	Establecer tu correo electrónico:
-sh
-git config --global user.email tu.correo@example.com
+Instalar Expo Go <br/>
+Para realizar las pruebas del desarrollo sin instalar emulador en equipo se debe instalar Expo Go en el teléfono.<br/>
+Aquí se escaneará el código QR que se genere al momento de ejecutar el aplicativo GIT<br/>
+Instalar GIT<br/>
+https://git-scm.com/<br/>
+Configurar el Nombre de Usuario y el Correo Electrónico<br/>
+Git utiliza tu nombre de usuario y correo electrónico para registrar quién realizó cada cambio en tu repositorio. Abre una terminal y ejecuta los siguientes comandos:<br/>
+1.	Establecer tu nombre de usuario:<br/>
+sh<br/>
+git config --global user.name "Tu Nombre"<br/>
+2.	Establecer tu correo electrónico:<br/>
+sh<br/>
+git config --global user.email tu.correo@example.com<br/>
 
  
 
@@ -82,32 +81,30 @@ Descarga de Código
 
  
 
-Ingresar la siguiente ruta
+Ingresar la siguiente ruta<br/>
 https://github.com/TuVidaFinanciera-Organizacion/TuVidaFinancieraApp.git
- 
-Cargar dentro de la carpeta del proyecto las siguientes carpetas, las mismas se encuentran en el archivo compartido .rar
- 
+<br/>
 
-Pasos para cargar las modificaciones a GIT REMOTO
-Primero descargar los cambios remotos
- 
+Pasos para cargar las modificaciones a GIT REMOTO<br/>
+Primero descargar los cambios remotos<br/>
+ <br/>
 Luego hacer commit y push
  
-
-Se abrirá una perspectiva en la parte derecha el ide, en el cual colocamos un comentario 
+<br/>
+Se abrirá una perspectiva en la parte derecha el ide, en el cual colocamos un comentario <br/>
  
-Luego pulsamos confirmar, enviar y sincronizar
+Luego pulsamos confirmar, enviar y sincronizar<br/>
  
-Ejecutar proyecto EXPO  TuVidaFinancieraApp
-1)	Ingresamos a la carpeta donde descargamos el código
-2)	abrimos una ventana cmd
-3)	Ejecutar el comando para actualizar el proyecto 
-a.	npm install -g expo-cli
-4)	Ejecutar comando para iniciar el proyecto
-a.	npx expo start --tunnel
-5)	Abrir el aplicativo EXPO GO y escanear el código QR
+Ejecutar proyecto EXPO  TuVidaFinancieraApp<br/>
+1)	Ingresamos a la carpeta donde descargamos el código<br/>
+2)	abrimos una ventana cmd<br/>
+3)	Ejecutar el comando para actualizar el proyecto <br/>
+a.	npm install -g expo-cli<br/>
+4)	Ejecutar comando para iniciar el proyecto<br/>
+a.	npx expo start --tunnel<br/>
+5)	Abrir el aplicativo EXPO GO y escanear el código QR<br/>
 6)	También se puede ingresar al link del servidor
- 
+ <br/>
 
 
 
